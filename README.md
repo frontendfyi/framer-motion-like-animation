@@ -1,6 +1,7 @@
 # Amazing Button Click Animation With Framer Motion's New Animation Sequences
 
-![CleanShot 2023-04-13 at 18 25 59](https://user-images.githubusercontent.com/2969573/231824293-25511563-6c89-480e-b841-ccd115aaf244.gif)
+![End Result](https://user-images.githubusercontent.com/2969573/236215765-7d1ba764-fe4d-431c-8102-662a6b6d3786.gif)
+
 
 In this video we'll be creating an awesome animated button with Framer Motion. A button similar to for example Twitter's like animation. Where our button in this case shoots out stars and animated the text when it's being clicked.
 
