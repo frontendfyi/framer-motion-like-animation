@@ -1,6 +1,6 @@
 # Amazing Button Click Animation With Framer Motion's New Animation Sequences
 
-![End Result](https://user-images.githubusercontent.com/2969573/236215765-7d1ba764-fe4d-431c-8102-662a6b6d3786.gif)
+![End Result](https://user-images.githubusercontent.com/2969573/236231650-90ff7b0b-0a02-4de5-a9d1-a70d65a254c5.gif)
 
 
 In this video we'll be creating an awesome animated button with Framer Motion. A button similar to for example Twitter's like animation. In our case the button has a star sparkle effect animates the text letter by letter when it's being clicked.
