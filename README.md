@@ -3,9 +3,9 @@
 ![End Result](https://user-images.githubusercontent.com/2969573/236215765-7d1ba764-fe4d-431c-8102-662a6b6d3786.gif)
 
 
-In this video we'll be creating an awesome animated button with Framer Motion. A button similar to for example Twitter's like animation. Where our button in this case shoots out stars and animated the text when it's being clicked.
+In this video we'll be creating an awesome animated button with Framer Motion. A button similar to for example Twitter's like animation. In our case the button has a star sparkle effect animates the text letter by letter when it's being clicked.
 
-For this we'll be using Framer Motions new animation sequences. A tool that makes it really easy to create timeline within your animates, and thus make animations dependent on each other / happen at certain times.
+For this we'll be using Framer Motions new and powerful animation sequences – a tool that makes it really easy to create timelines within your animations. These timelines then make it super easy to make animations dependent on each other / happen at certain times.
 
 ## Links
 
